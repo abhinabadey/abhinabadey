@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abhinaba Dey 👋
 
-<!--
-**abhinabadey/abhinabadey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O2C / Order Management professional (SAP SD) with 4+ years of experience at Wipro, now moving into **Data Analytics**.
 
-Here are some ideas to get you started:
+## What I'm learning
+- SQL
+- Power BI
+- Python (pandas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I bring
+- Hands-on order-to-invoice experience: sales orders, deliveries, billing
+- 98% billing accuracy, 100% SLA compliance for 6 consecutive months
+- Advanced Excel and reporting
+
+## Projects (coming soon)
+- Order cycle-time and SLA dashboard
+- Delivery delay analysis
+- SAP-style O2C document flow analysis
+
+## Connect
+LinkedIn: linkedin.com/in/abhinaba-dey-81785121b
